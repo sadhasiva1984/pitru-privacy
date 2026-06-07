@@ -1,0 +1,14 @@
+# Jekyll config — published by GitHub Pages from the root of this repo.
+#
+# The published site has exactly two URLs:
+#   /          → index.md (the privacy policy)
+#   /index.html → same, just the redirect form
+#
+# Pretty permalinks mean App Store Connect's "Privacy Policy URL" field
+# can be just `https://<user>.github.io/pitru-privacy/` — short, stable,
+# easy to verify.
+
+title: Pitru Calendar — Privacy Policy
+description: Privacy policy for the Pitru Calendar iOS app.
+theme: minima
+permalink: pretty
